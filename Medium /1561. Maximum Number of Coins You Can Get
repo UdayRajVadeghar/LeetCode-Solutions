@@ -1,0 +1,24 @@
+
+//Here the value of K is the number of times we are picking up. The best scenerio for us to have the maximum piles is that , we sort the array first and then we let alice choose the last index(highest piles) then we choose the
+n-1 index (second highest ) and let bob take the first index (that is 0) only then we can get the maximum number of piles.So here I have sorted the array and got a stopper K as a variable where the valriable tells us when to stop.
+we can then choose every alternative element backwards from the second last index (that is arr.length - 1). 
+
+
+class Solution {
+    public int maxCoins(int[] piles) {
+
+        Arrays.sort(piles);
+        int k = piles.length / 3;
+        int sum = 0 ;
+        int i = 1;
+
+        while(k>0){
+            
+            sum = sum + piles[piles.length - 2*i];
+            k--;
+            i++;
+        }
+        return sum;
+            
+    }
+}
