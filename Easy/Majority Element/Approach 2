@@ -1,0 +1,30 @@
+#We can use Boyer-Moore Majority Voting Algorithm where it says that if the most repeating elements in the an array exceeds N/2 N being the size of the array then it will give you
+the maximum number of occurance of an element 
+refer to 
+https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/ 
+for more detail
+
+
+//code
+class Solution {
+    public int majorityElement(int[] nums) {
+
+        int count = 0 ;
+        int element = 0;
+        for(int i = 0 ;  i < nums.length ; i++){
+
+            if(count == 0){
+                element = nums[i];
+            }
+            if(element == nums[i]){
+                count++;
+            }
+            if(element != nums[i]){
+                count--;
+            }
+        }
+        return element;
+
+
+    }
+}
