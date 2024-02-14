@@ -1,0 +1,31 @@
+//We need to recursively find all the subsets.Since we are finding subsets we are continuosly adding thenindex even if we remove the element from the list. Thats the trick
+
+import java.util.ArrayList;
+import java.util.List;
+
+class Solution {
+    public List<List<Integer>> subsets(int[] nums) {
+
+        int index = 0 ;
+        List<List<Integer>> finalList = new ArrayList<>();
+        List<Integer> list1 = new ArrayList<>();
+        allSubsets(nums , index , list1 , finalList);
+        return finalList;
+
+    }
+
+    public static List<List<Integer>> allSubsets(int[] nums , int index , List<Integer> list1 ,List<List<Integer>> finalList){
+
+        if(index >= nums.length){
+            finalList.add(new ArrayList<>(list1));
+            return finalList;
+        }
+
+        list1.add(nums[index]);
+        allSubsets(nums , index + 1 , list1 , finalList);
+        list1.remove(list1.size() - 1);
+        allSubsets(nums , index +  1 , list1 , finalList);
+        return finalList;
+
+    }
+}
