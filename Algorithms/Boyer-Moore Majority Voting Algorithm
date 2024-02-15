@@ -1,7 +1,9 @@
 https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/
 
-Leetcode problems:
-169. Majority Element
+Leetcode problems:  
+
+
+169. Majority Element 
 Code:
 
 class Solution {
