@@ -1,0 +1,34 @@
+import java.util.HashMap;
+import java.util.Map;
+import java.util.PriorityQueue;
+import java.util.Queue;
+
+class Solution {
+    public int findLeastNumOfUniqueInts(int[] arr, int k) {
+
+        HashMap<Integer , Integer> map1 = new HashMap<>();
+
+        for(int element : arr){
+            if(!map1.containsKey(element)){
+                map1.put(element , 1);
+            }else{
+                int temp = map1.get(element) + 1;
+                map1.put(element , temp);
+            }
+
+        }
+        Queue<Integer> queue1 = new PriorityQueue<>();
+        for(Map.Entry elements : map1.entrySet()){
+            int temp = (int) elements.getValue();
+            queue1.add(temp);
+        }
+       
+        while (!queue1.isEmpty() && k >= queue1.peek()) {
+            k -= queue1.poll();
+        }
+
+        return queue1.size();
+
+    }
+
+}
