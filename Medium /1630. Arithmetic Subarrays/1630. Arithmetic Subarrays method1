@@ -1,0 +1,38 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+class Solution {
+    public List<Boolean> checkArithmeticSubarrays(int[] nums, int[] l, int[] r) {
+
+        List<Boolean> list1 = new ArrayList<>();
+        List<Integer> list2 = new ArrayList<>();
+
+        for(int i = 0  ; i < l.length ; i++){
+            int startIdx = l[i];
+            int endIdx = r[i];
+
+            while(startIdx <= endIdx) {
+                list2.add(nums[startIdx]);
+                startIdx++;
+            }
+
+            Collections.sort(list2);
+            int difference = list2.get(1) - list2.get(0);
+            boolean bool = false;
+            for(int j = 0 ; j < list2.size() - 1 ;j++) {
+                if (list2.get(j + 1) - list2.get(j) == difference) {
+                    bool = true;
+                }else{
+                    bool = false;
+                    break;
+                }
+            }
+            list1.add(bool);
+            list2.clear();
+
+        }
+        return list1;
+
+    }
+}
