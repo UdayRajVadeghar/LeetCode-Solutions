@@ -6,7 +6,7 @@ class Solution {
         int index = 0 ;
         HashSet<List<Integer>> finalList = new HashSet<>();
         List<Integer> list1 = new ArrayList<>();
-        allSubsets(nums , index , list1 , finalList);
+        allSubsets(nums ,  index , list1 , finalList);
         HashSet<List<Integer>> correctAns = new HashSet<>();
         for(List<Integer> element : finalList){
             Collections.sort(element);
