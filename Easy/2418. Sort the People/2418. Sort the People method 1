@@ -1,0 +1,30 @@
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
+class Solution {
+    public String[] sortPeople(String[] names, int[] heights) {
+
+
+        Map<Integer , String> hash1 = new HashMap<>();
+
+        for(int i = 0 ; i < heights.length ; i++){
+            hash1.put(heights[i] , names[i]);
+        }
+
+        Arrays.sort(heights);
+
+        
+
+        for(int i = 0 ; i < names.length ; i++){
+            names[i] = hash1.get(heights[heights.length - 1 - i]);
+        }
+
+        return names;
+
+
+
+
+
+    }
+}
