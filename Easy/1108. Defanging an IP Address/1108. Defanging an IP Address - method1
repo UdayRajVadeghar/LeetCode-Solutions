@@ -9,6 +9,7 @@ class Solution {
             }else{
                 char temp = address.charAt(i);
                 String temp1 = Character.toString(temp);
+
                 s = s.concat(temp1);
             }
         }
