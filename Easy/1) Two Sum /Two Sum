@@ -2,7 +2,7 @@
 //Solved using hashmap, where you input the key of the hash map as (target - arr[index]) , if the key is found you can return.
 
 import java.util.HashMap ;
-import java.util.Map;
+import java.util.Map; 
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
