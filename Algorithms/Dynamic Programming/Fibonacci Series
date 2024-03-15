@@ -1,0 +1,36 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class Main {
+    public static void main(String[] args) {
+
+        int n = 55;
+
+        Map<Integer , Integer> map1 = new HashMap<>();
+
+        int ans = fibo(n , map1);
+
+        System.out.println(ans);
+
+
+    }
+    public static int fibo(int n , Map<Integer , Integer> map1){
+
+        if(n <= 1){
+            return n;
+        }
+
+        if(map1.containsKey(n)){
+            return map1.get(n);
+        }
+
+        int result = fibo(n-1 , map1) + fibo(n-2 , map1);
+
+        map1.put(n , result);
+
+        return result;
+
+
+
+    }
+}
