@@ -9,7 +9,7 @@ class Solution {
           }
           return a.getKey() - b.getKey();
       });
-      Queue<Integer> poolPq = new PriorityQueue<>((a, b) -> a - b);
+      Queue<Integer> poolPq = new PriorityQueue<>((a, b) -> a - b); 
       Queue<int[]> meetPq = new LinkedList<>();
       for (int i = 0; i < n; i++) {
           poolPq.add(i);
