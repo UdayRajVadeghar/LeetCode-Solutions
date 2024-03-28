@@ -13,7 +13,7 @@ class Solution {
       Queue<int[]> meetPq = new LinkedList<>();
       for (int i = 0; i < n; i++) {
           poolPq.add(i);
-      }
+      } 
       Arrays.sort(meetings, (a, b) -> a[0] - b[0]);
       int[] res = new int[100];
       int p = 0;
