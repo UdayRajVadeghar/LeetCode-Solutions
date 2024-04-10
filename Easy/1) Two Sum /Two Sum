@@ -20,6 +20,7 @@ class Solution {
             }else{
                 map1.put(nums[i] , i);
             }
+
         }
 
         return arr1 ;
