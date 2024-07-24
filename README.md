@@ -14,6 +14,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -27,9 +28,14 @@ Thank you :-)
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
