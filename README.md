@@ -17,6 +17,7 @@ Thank you :-)
 | [0015-3sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Thank you :-)
 | [0155-min-stack](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -65,4 +67,8 @@ Thank you :-)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
