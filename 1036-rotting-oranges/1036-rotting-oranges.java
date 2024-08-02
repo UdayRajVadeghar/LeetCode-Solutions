@@ -21,6 +21,7 @@ class Solution {
         int m = grid[0].length;
         int count = 0;
 
+        int[][] visited = new int[n][m];
 
         for(int i = 0 ; i < n ; i++){
 
@@ -29,7 +30,7 @@ class Solution {
                 if(grid[i][j] == 2){
 
                     queue1.offer(new Pair(i , j , 0));
-                    
+                    visited[i][j] = 2;
                     
                 }
                 if(grid[i][j] == 1){
@@ -58,10 +59,11 @@ class Solution {
                 int newRow = drow[i] + curRow;
                 int newCol = dcol[i] + curCol;
 
-                if((newRow >= 0 && newRow < n) && (newCol >= 0 && newCol < m) && grid[newRow][newCol] == 1){
+                if((newRow >= 0 && newRow < n) && (newCol >= 0 && newCol < m) && grid[newRow][newCol] == 1 && visited[newRow][newCol] != 2){
                     
                     newCount++;
                     grid[newRow][newCol] = 2;
+                    visited[newRow][newCol] = 2;
                    
                     queue1.offer(new Pair(newRow , newCol , curTime + 1));
 
