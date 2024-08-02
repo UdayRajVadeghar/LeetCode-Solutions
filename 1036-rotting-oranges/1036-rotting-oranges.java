@@ -21,7 +21,6 @@ class Solution {
         int m = grid[0].length;
         int count = 0;
 
-        int[][] visited = new int[n][m];
 
         for(int i = 0 ; i < n ; i++){
 
@@ -30,7 +29,7 @@ class Solution {
                 if(grid[i][j] == 2){
 
                     queue1.offer(new Pair(i , j , 0));
-                    visited[i][j] = 2;
+                    
                     
                 }
                 if(grid[i][j] == 1){
