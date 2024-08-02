@@ -23,15 +23,12 @@ class Solution {
 
         int n = image.length;
         int m = image[0].length;
-        int setCount = n*m;
-        
 
         
         int initialColour = image[sr][sc];
         image[sr][sc] = color;
-       
-       
-        int count = 1;
+        int[][] visited = new int[n][m];
+        visited[sr][sc] = 1;
         
         
         int[] drow = {-1 , 1 , 0 , 0};
@@ -51,13 +48,13 @@ class Solution {
                 if((newRow >=0 && newRow < n) && (newCol >= 0 && newCol < m) && image[newRow][newCol] == initialColour){
                     
 
-                    if(count == setCount){
-                        break;
+                    if(visited[newRow][newCol] == 1){
+                        continue;
                     }
 
                     System.out.println(newRow +" "+ newCol);
                     image[newRow][newCol] = color;
-                    count++;
+                    visited[newRow][newCol] = 1;
                     queue1.offer(new Pair (newRow , newCol));
 
                 }
