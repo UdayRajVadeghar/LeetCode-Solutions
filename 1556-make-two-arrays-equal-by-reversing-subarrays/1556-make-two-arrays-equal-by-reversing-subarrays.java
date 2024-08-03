@@ -23,11 +23,14 @@ class Solution {
             }
             
         }
-        if(left <= target.length - 1){
-            System.out.println(left + " " + right + " " + i);
+        for(int j = 0 ; j < target.length ; j++){
+            if(target[j] == arr[j]){
+                continue;
+            }
             return false;
         }
         return true;
+        
         
     }
     public static void reverse(int arr[] , int left , int right){
