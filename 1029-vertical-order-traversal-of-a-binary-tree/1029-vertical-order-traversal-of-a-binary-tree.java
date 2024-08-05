@@ -30,15 +30,7 @@ class Solution {
             list1.add(list2);
         }
 
-        return list1;
-        
-
-
-        
-
-
-
-        
+        return list1;  
     }
 
     public static void VOT(TreeNode root , int x , int y , TreeMap<Integer , TreeMap<Integer , PriorityQueue<Integer>>> map1){
