@@ -24,6 +24,7 @@ Thank you :-)
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -109,6 +110,7 @@ Thank you :-)
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Thank you :-)
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,11 +157,13 @@ Thank you :-)
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Greedy
 |  |
 | ------- |
