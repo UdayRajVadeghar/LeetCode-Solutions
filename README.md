@@ -167,10 +167,12 @@ Thank you :-)
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
