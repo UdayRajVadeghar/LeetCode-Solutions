@@ -21,6 +21,7 @@ Thank you :-)
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -69,6 +70,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -154,6 +157,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
