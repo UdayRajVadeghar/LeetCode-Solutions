@@ -24,6 +24,7 @@ Thank you :-)
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0921-spiral-matrix-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -162,6 +163,7 @@ Thank you :-)
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0921-spiral-matrix-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -186,4 +188,8 @@ Thank you :-)
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
