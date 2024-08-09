@@ -97,6 +97,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1260-day-of-the-year](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -186,6 +187,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1260-day-of-the-year](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1448-maximum-69-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Graph
