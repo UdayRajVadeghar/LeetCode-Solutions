@@ -31,7 +31,7 @@ class Solution {
             }
         }
 
-        pathVisited[node] = 0;  // Remove the node from the current path
+        pathVisited[node] = 0;  
         return false;
     }
 }
