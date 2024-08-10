@@ -35,6 +35,7 @@ Thank you :-)
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ Thank you :-)
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [1086-divisor-game](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1086-divisor-game) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Thank you :-)
 | [0225-implement-stack-using-queues](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Design
 |  |
 | ------- |
@@ -115,6 +118,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Tree
 |  |
 | ------- |
@@ -200,6 +204,7 @@ Thank you :-)
 | [1448-maximum-69-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Math
 |  |
 | ------- |
