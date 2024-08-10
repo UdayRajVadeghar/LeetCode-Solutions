@@ -1,14 +1,14 @@
 class Solution {
     public int triangularSum(int[] nums) {
 
-        recurse(nums , nums.length);
-        return nums[0];
+        
+        return recurse(nums , nums.length);
         
     }
-    static void recurse(int[] arr ,int length){
+    static int recurse(int[] arr ,int length){
 
         if(length == 1){
-            return;
+            return arr[0];
         }
         for(int i = 0 ; i < length-1 ; i++){
 
@@ -16,7 +16,7 @@ class Solution {
 
         }
 
-        recurse(arr , length - 1);
+        return recurse(arr , length - 1);
 
     }
 }
