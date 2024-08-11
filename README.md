@@ -32,6 +32,7 @@ Thank you :-)
 | [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -138,6 +139,7 @@ Thank you :-)
 | [0999-regions-cut-by-slashes](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Thank you :-)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,6 +197,7 @@ Thank you :-)
 | [0999-regions-cut-by-slashes](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
 |  |
 | ------- |
@@ -259,4 +263,8 @@ Thank you :-)
 | [0231-power-of-two](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
