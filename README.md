@@ -32,6 +32,7 @@ Thank you :-)
 | [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -48,6 +49,7 @@ Thank you :-)
 | [0999-regions-cut-by-slashes](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
@@ -65,6 +67,7 @@ Thank you :-)
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -78,6 +81,7 @@ Thank you :-)
 | [0015-3sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
