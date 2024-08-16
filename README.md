@@ -26,6 +26,7 @@ Thank you :-)
 | [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0624-maximum-distance-in-arrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -223,6 +224,7 @@ Thank you :-)
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
