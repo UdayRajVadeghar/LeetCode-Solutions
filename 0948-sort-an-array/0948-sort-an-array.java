@@ -1,12 +1,16 @@
 class Solution {
     public int[] sortArray(int[] nums) {
 
+        //divide and conquer
+
         int low = 0;
         int high = nums.length - 1;
 
         mergeSort(nums, low, high);
 
         return nums;
+
+
     }
 
     public static void mergeSort(int[] nums, int low, int high) {
