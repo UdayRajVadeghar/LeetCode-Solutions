@@ -2,9 +2,9 @@ class Solution {
     public int maxProduct(int[] nums) {
 
 
-        int prefixProduct = 1;
-        int suffixProduct = 1;
-        int maxProduct = Integer.MIN_VALUE;
+        double prefixProduct = 1;
+        double suffixProduct = 1;
+        double maxProduct = Integer.MIN_VALUE;
 
         for(int i = 0 ; i < nums.length ; i++){
 
@@ -19,11 +19,9 @@ class Solution {
             
         }
 
-        if(maxProduct == 1981284352){
-            return 1000000000;
-        }
+        
 
-        return maxProduct;
+        return (int)maxProduct;
         
     }
 }
