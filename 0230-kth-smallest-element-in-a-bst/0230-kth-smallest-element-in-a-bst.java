@@ -16,27 +16,28 @@
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
 
-        List<Integer> list1 = new ArrayList<>();
-
-        inOrder(root , list1);
-
-        return list1.get(k-1);
-
-
+        Stack<TreeNode> stack1 = new Stack<>();
         
+        while(root != null || !stack1.isEmpty()){
 
-        
-    }
-    public static void inOrder(TreeNode root , List<Integer> list1){
+            while(root != null){
 
-        if(root == null){
-            return;
+                stack1.push(root);
+                root = root.left;
+            }
+
+            root = stack1.pop();
+            k--;
+            if(k == 0){
+                return root.val;
+            }
+            root = root.right;
+
         }
 
+        return -1;
 
-        inOrder(root.left , list1);
-        list1.add(root.val);
-        inOrder(root.right , list1);
 
+        
     }
 }
