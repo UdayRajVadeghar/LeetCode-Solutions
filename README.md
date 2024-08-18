@@ -152,6 +152,7 @@ Thank you :-)
 | [0094-binary-tree-inorder-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -161,6 +162,7 @@ Thank you :-)
 | [0130-surrounded-regions](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
@@ -189,6 +191,7 @@ Thank you :-)
 | [0094-binary-tree-inorder-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
@@ -313,6 +316,7 @@ Thank you :-)
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
