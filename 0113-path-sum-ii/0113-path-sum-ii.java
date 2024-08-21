@@ -19,27 +19,30 @@ class Solution {
         List<Integer> list2 = new ArrayList<>();
         List<List<Integer>> list1 = new ArrayList<>();
 
-
-        sums(root , targetSum , list2 , list1);
+        pathSumList(root , targetSum , list1 , list2);
         return list1;
 
         
-        
     }
-    public static void sums(TreeNode root , int targetSum , List<Integer> list2 , List<List<Integer>> list1){
+    public static void pathSumList(TreeNode root , int targetSum , List<List<Integer>> list1 , List<Integer> list2){
 
         if(root == null){
             return;
         }
         list2.add(root.val);
-        if((root.left == null && root.right == null) && (targetSum-root.val == 0)){ 
-            list1.add(new ArrayList<>(list2));
+
+        if((root.left == null && root.right == null) && targetSum - root.val == 0){
+
+            list1.add(new ArrayList(list2));
         }
-        
-        sums(root.left,targetSum - root.val , list2 , list1);
-        sums(root.right , targetSum - root.val , list2 , list1);
-        list2.remove(list2.size()-1);
-        
+
+        pathSumList(root.left , targetSum - root.val, list1 , list2);
+        pathSumList(root.right, targetSum - root.val, list1 , list2);
+        list2.removeLast();
+
+
 
     }
+
+
 }
