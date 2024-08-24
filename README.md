@@ -15,6 +15,7 @@ Thank you :-)
 | ------- |
 | [0001-two-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -75,6 +76,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -95,6 +97,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0160-intersection-of-two-linked-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
