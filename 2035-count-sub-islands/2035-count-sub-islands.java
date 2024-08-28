@@ -12,7 +12,7 @@ class Solution {
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                
-                if (grid2[i][j] == 1 && visited[i][j] != 1) {
+                if (grid2[i][j] == 1 && grid1[i][j] == 1 && visited[i][j] != 1) {
                     
                     if (dfs(i, j, grid1, grid2, visited, m, n)) {
                         count++;
