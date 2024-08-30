@@ -1,10 +1,10 @@
-class Pair{
+class Tuple{
 
     int distance;
     int row;
     int col;
 
-    public Pair(int distance, int row, int col) {
+    public Tuple(int distance, int row, int col) {
 
         this.distance = distance;
         this.row = row;
@@ -34,7 +34,7 @@ class Solution {
 
         int n = grid.length;
 
-        Queue<Pair> queue1 = new LinkedList<>();
+        Queue<Tuple> queue1 = new LinkedList<>();
         int[][] minimumDistances = new int[n][n];
 
         for (int i = 0; i < n; i++) {
@@ -42,11 +42,11 @@ class Solution {
         }
 
 
-        queue1.offer(new Pair(1, 0, 0));
+        queue1.offer(new Tuple(1, 0, 0));
 
         while (!queue1.isEmpty()) {
 
-            Pair temp = queue1.poll();
+            Tuple temp = queue1.poll();
             int curRow = temp.row;
             int curCol = temp.col;
             int curDistance = temp.distance;
@@ -59,7 +59,7 @@ class Solution {
 
                 if (newRow >= 0 && newRow < n && newCol < n && newCol >=0 && grid[newRow][newCol] == 0 &&  newDistance < minimumDistances[newRow][newCol]) {
 
-                    queue1.offer(new Pair(newDistance, newRow, newCol));
+                    queue1.offer(new Tuple(newDistance, newRow, newCol));
                     minimumDistances[newRow][newCol] = newDistance;
                 }
 
