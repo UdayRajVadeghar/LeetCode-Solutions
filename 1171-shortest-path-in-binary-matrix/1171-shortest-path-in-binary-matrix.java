@@ -1,4 +1,4 @@
-class Pair implements Comparable<Pair> {
+class Pair{
 
     int distance;
     int row;
@@ -12,11 +12,6 @@ class Pair implements Comparable<Pair> {
 
     }
 
-    public int compareTo(Pair that) {
-
-        return this.distance - that.distance;
-
-    }
 
 }
 
@@ -39,7 +34,7 @@ class Solution {
 
         int n = grid.length;
 
-        PriorityQueue<Pair> queue1 = new PriorityQueue<>();
+        Queue<Pair> queue1 = new LinkedList<>();
         int[][] minimumDistances = new int[n][n];
 
         for (int i = 0; i < n; i++) {
