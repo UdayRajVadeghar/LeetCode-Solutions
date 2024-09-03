@@ -2,18 +2,37 @@ class Solution {
     public int climbStairs(int n) {
 
         int[] dp = new int[n+1];
-        dp[0] = 1;
-        dp[1] = 2;
+
+        recurse( n , dp);
+
+        return dp[n];
+
         
+        
+    }
 
-        for(int i = 2 ; i < n+1; i++){
+    public static int recurse(int n , int[] dp){
 
-            dp[i] = dp[i-1] + dp[i-2];
+        if(n == 0 || dp[n] != 0){
 
+            if(dp[n] != 0){
+                return dp[n];
+            }
+            return 1;
         }
-
-        return dp[n-1];
-
+        if(n == 1){
+            dp[1] = 1;
+            return 1;
+        }
         
+
+        int combo1 = recurse(n - 1 , dp);
+        int combo2 = recurse(n - 2 , dp);
+
+        dp[n] = combo1 + combo2;
+
+        return combo1 + combo2;
+
+
     }
 }
