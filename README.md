@@ -396,4 +396,8 @@ Thank you :-)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
