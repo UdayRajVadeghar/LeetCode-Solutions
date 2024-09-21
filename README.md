@@ -191,6 +191,7 @@ Thank you :-)
 | [0145-binary-tree-postorder-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -408,4 +409,8 @@ Thank you :-)
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0197-rising-temperature) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
