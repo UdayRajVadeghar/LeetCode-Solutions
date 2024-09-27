@@ -31,6 +31,7 @@ Thank you :-)
 | [0624-maximum-distance-in-arrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -142,6 +143,7 @@ Thank you :-)
 | [0155-min-stack](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -238,6 +240,7 @@ Thank you :-)
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
@@ -398,6 +401,7 @@ Thank you :-)
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -413,4 +417,12 @@ Thank you :-)
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
