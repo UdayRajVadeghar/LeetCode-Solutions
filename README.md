@@ -20,6 +20,7 @@ Thank you :-)
 | [0040-combination-sum-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -357,6 +358,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0476-number-complement) |
@@ -385,6 +387,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Bucket Sort
 |  |
