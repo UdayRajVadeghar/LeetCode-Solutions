@@ -68,6 +68,7 @@ Thank you :-)
 | [0160-intersection-of-two-linked-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0870-magic-squares-in-grid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -115,6 +116,7 @@ Thank you :-)
 | [0015-3sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0160-intersection-of-two-linked-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0567-permutation-in-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -163,6 +165,7 @@ Thank you :-)
 | [0020-valid-parentheses](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1260-day-of-the-year](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -275,6 +278,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Matrix
 |  |
