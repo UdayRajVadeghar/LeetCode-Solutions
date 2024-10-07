@@ -144,6 +144,7 @@ Thank you :-)
 | [0232-implement-queue-using-stacks](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Design
 |  |
@@ -170,6 +171,7 @@ Thank you :-)
 | [1260-day-of-the-year](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -345,6 +347,7 @@ Thank you :-)
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Brainteaser
 |  |
