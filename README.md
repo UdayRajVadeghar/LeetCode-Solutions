@@ -124,6 +124,7 @@ Thank you :-)
 | [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Thank you :-)
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -322,6 +324,7 @@ Thank you :-)
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
