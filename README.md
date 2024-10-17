@@ -345,6 +345,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -364,6 +365,7 @@ Thank you :-)
 | [0231-power-of-two](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0670-maximum-swap](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1086-divisor-game](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
