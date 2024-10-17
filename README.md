@@ -27,6 +27,7 @@ Thank you :-)
 | [0152-maximum-product-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -70,6 +71,7 @@ Thank you :-)
 | [0003-longest-substring-without-repeating-characters](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -99,6 +101,7 @@ Thank you :-)
 | [0016-3sum-closest](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0778-reorganize-string) |
