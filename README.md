@@ -288,6 +288,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Merge Sort
 |  |
@@ -401,6 +402,7 @@ Thank you :-)
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0342-power-of-four) |
