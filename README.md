@@ -58,6 +58,7 @@ Thank you :-)
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -420,6 +421,7 @@ Thank you :-)
 | [0476-number-complement](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -447,6 +449,7 @@ Thank you :-)
 | [0078-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -486,4 +489,8 @@ Thank you :-)
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
