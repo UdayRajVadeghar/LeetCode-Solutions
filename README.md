@@ -243,6 +243,7 @@ Thank you :-)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -262,6 +263,7 @@ Thank you :-)
 | [0199-binary-tree-right-side-view](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
@@ -348,6 +350,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -392,6 +395,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Simulation
 |  |
