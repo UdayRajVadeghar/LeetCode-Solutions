@@ -1,94 +1,91 @@
-class Pair{
+class Tuple{
+
     int row;
     int col;
     int time;
 
-    Pair(int _row , int _col , int _time){
-        this.row = _row; 
-        this.col = _col;
-        this.time = _time;
+    public Tuple(int row , int col ,int time){
+        this.row = row;
+        this.col = col;
+        this.time = time;
     }
+
+
 }
 
-
 class Solution {
+
+    static int[] drow = {0 , 0 , 1 , -1};
+    static int[] dcol = {1 , -1 , 0 , 0};
+
     public int orangesRotting(int[][] grid) {
+
         
+        int m = grid.length;
+        int n = grid[0].length;
+        int[][] visited = new int[m][n];
+        Queue<Tuple> queue1 = new LinkedList<>();
 
-        Queue<Pair> queue1 = new LinkedList<>();
+        //finding the rotten orange
 
-        int n = grid.length;
-        int m = grid[0].length;
-        int count = 0;
-
-        int[][] visited = new int[n][m];
-
-        for(int i = 0 ; i < n ; i++){
-
-            for(int j = 0 ; j < m ; j++){
+        for(int i = 0 ; i < m ; i++){
+            for(int j = 0 ; j < n ; j++){
 
                 if(grid[i][j] == 2){
-
-                    queue1.offer(new Pair(i , j , 0));
-                    visited[i][j] = 2;
-                    
-                }
-                if(grid[i][j] == 1){
-                    count++;
+                    queue1.offer(new Tuple(i , j , 0));
+                    visited[i][j] = 1;
                 }
 
             }
-
         }
 
-        int[] drow = {-1 , 1 , 0 , 0};
-        int[] dcol = {0 , 0 , -1 , 1}; 
         int maxTime = 0;
-        int newCount = 0;
 
         while(!queue1.isEmpty()){
 
-            Pair temp = queue1.poll();
-            int curRow = temp.row;
-            int curCol = temp.col;
-            int curTime = temp.time;
-            maxTime = Math.max(curTime , maxTime);
+            int size = queue1.size();
+            
+            for(int i = 0 ; i < size ; i++){
 
-            for(int i = 0 ; i < 4 ; i++){
+                Tuple temp = queue1.poll();
+                int row = temp.row;
+                int col = temp.col;
+                int time = temp.time;
+                visited[row][col] = 1;
+                maxTime = Math.max(time , maxTime);
 
-                int newRow = drow[i] + curRow;
-                int newCol = dcol[i] + curCol;
+                for(int j = 0 ; j < 4 ; j++){
 
-                if((newRow >= 0 && newRow < n) && (newCol >= 0 && newCol < m) && grid[newRow][newCol] == 1 && visited[newRow][newCol] != 2){
-                    
-                    newCount++;
-                    grid[newRow][newCol] = 2;
-                    visited[newRow][newCol] = 2;
-                   
-                    queue1.offer(new Pair(newRow , newCol , curTime + 1));
+                    int newRow = row + drow[j];
+                    int newCol = col + dcol[j];
+
+                    if(newRow >= 0 && newRow < m && newCol >= 0 && newCol < n && grid[newRow][newCol] == 1 && visited[newRow][newCol] == 0){
+                        
+                        grid[newRow][newCol] = 2;
+                        queue1.offer(new Tuple(newRow , newCol , time + 1));
+                        
+                    }
 
                 }
 
-
             }
 
-            
-
-
         }
 
-        System.out.println(count);
-        System.out.println(newCount);
+        for(int i = 0 ; i < m ; i++){
 
-        if(count == newCount){
-            return maxTime;
+            for(int j = 0 ; j < n ; j++){
+
+                if(grid[i][j] == 1){
+                    return -1;
+                }
+            }
         }
-        return -1;
-        
-        
+
+        return maxTime;
 
 
-        
 
+           
     }
 }
