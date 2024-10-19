@@ -78,6 +78,7 @@ Thank you :-)
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -122,6 +123,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -185,6 +187,7 @@ Thank you :-)
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -193,6 +196,7 @@ Thank you :-)
 | [0020-valid-parentheses](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0778-reorganize-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0778-reorganize-string) |
