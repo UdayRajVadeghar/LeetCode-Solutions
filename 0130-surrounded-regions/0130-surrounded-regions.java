@@ -11,9 +11,7 @@ class Solution {
 
         int[][] visited = new int[m][n];
 
-        if(m == 1 || n == 1){
-            return;
-        }
+        
 
 
         // first row and last row
