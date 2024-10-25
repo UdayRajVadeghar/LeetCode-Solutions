@@ -34,6 +34,7 @@ Thank you :-)
 | [0217-contains-duplicate](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0416-partition-equal-subset-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -161,6 +162,7 @@ Thank you :-)
 | [0070-climbing-stairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1086-divisor-game](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1086-divisor-game) |
