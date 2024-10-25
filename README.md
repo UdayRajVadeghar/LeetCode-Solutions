@@ -36,6 +36,7 @@ Thank you :-)
 | [0239-sliding-window-maximum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0494-target-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -163,6 +164,7 @@ Thank you :-)
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1086-divisor-game](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1086-divisor-game) |
@@ -508,6 +510,7 @@ Thank you :-)
 | [0078-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bucket Sort
 |  |
