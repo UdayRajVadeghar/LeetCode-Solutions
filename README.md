@@ -172,6 +172,7 @@ Thank you :-)
 | [0943-sum-of-subarray-minimums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1086-divisor-game](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1250-longest-common-subsequence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Stack
 |  |
@@ -220,6 +221,7 @@ Thank you :-)
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0778-reorganize-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1260-day-of-the-year](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
