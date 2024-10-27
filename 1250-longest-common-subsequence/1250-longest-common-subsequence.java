@@ -49,13 +49,13 @@ class Solution {
         if(text1.charAt(n-1) == text2.charAt(m-1)){
 
             int common = 1 + lcs(text1,text2,n-1,m-1,dp);
-            dp[n][m] = common;
+            return dp[n][m] = common;
         }else{
             int uncommon = Math.max(lcs(text1,text2,n-1,m,dp) , lcs(text1,text2,n,m-1,dp));
-            dp[n][m] = uncommon;
+            return dp[n][m] = uncommon;
         }
 
-        return dp[n][m];
+        
 
         
 
