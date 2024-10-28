@@ -1,34 +1,29 @@
 class Solution {
-    public List<List<Integer>> subsetsWithDup(int[] nums) { 
+    public List<List<Integer>> subsetsWithDup(int[] nums) {
         
-        int index = 0 ;
-        HashSet<List<Integer>> finalList = new HashSet<>();
-        List<Integer> list1 = new ArrayList<>();
-        allSubsets(nums , index , list1 , finalList);
-        HashSet<List<Integer>> correctAns = new HashSet<>();
-        for(List<Integer> element : finalList){
-            Collections.sort(element);
-            correctAns.add(element);
-        }
-        List<List<Integer>> ans = new ArrayList<>(correctAns);
+        Arrays.sort(nums);
+        List<Integer> list2 = new ArrayList<>();
+        List<List<Integer>> list1 = new ArrayList<>();
+        recurse(nums,0,list1,list2);
 
-        return ans;
+        return list1;
+        
+    }
+    public static void recurse(int[] nums , int index , List<List<Integer>> list1 , List<Integer> list2){
+
+        list1.add(new ArrayList<>(list2));
+
+        for(int i = index ; i < nums.length ; i++){
+
+            if(i != index && nums[i] == nums[i-1]){
+                continue;
+            }
+            list2.add(nums[i]);
+            recurse(nums,i+1,list1,list2);
+            list2.remove(list2.size()-1);
+        }
+
 
     }
 
-    public static HashSet<List<Integer>> allSubsets(int[] nums , int index , List<Integer> list1 , HashSet<List<Integer>> finalList){
-
-        if(index == nums.length){
-        
-            finalList.add(new ArrayList<>(list1));
-            return finalList;
-        }
-
-        list1.add(nums[index]);
-        allSubsets(nums , index + 1 , list1 , finalList);
-        list1.remove(list1.size() - 1);
-        allSubsets(nums , index +  1 , list1 , finalList);
-        return finalList;
-
-    }
 }
