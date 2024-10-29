@@ -3,37 +3,47 @@ class Solution {
 
         List<List<Integer>> list1 = new ArrayList<>();
         List<Integer> list2 = new ArrayList<>();
-        Map<Integer ,Integer> map1 = new HashMap<>();
+    
 
-        recurse(nums , 0 , list1 , list2 , map1);
+        recurse(nums , 0 , list1);
 
         return list1;
         
         
     }
-    public static void recurse(int[] nums , int index , List<List<Integer>> list1 , List<Integer> list2 , Map<Integer,Integer> map1){
+    public static void recurse(int[] nums , int index , List<List<Integer>> list1){
 
-        if(list2.size() == nums.length){
+        if(index == nums.length){
+            List<Integer> list2 = new ArrayList<>();
+            for(int i = 0 ; i < nums.length ; i++){
+
+                list2.add(nums[i]);
+
+            }
 
             list1.add(new ArrayList<>(list2));
             return;
 
         }
+        
+        for(int i = index ; i < nums.length ; i++){
 
-        for(int i = 0 ; i < nums.length ; i++){
+            swap(nums , index , i);
+            recurse(nums,index+1,list1);
+            swap(nums , index , i);
 
-            if(map1.containsKey(nums[i])){
-                continue;
-            }
-            list2.add(nums[i]);
-            map1.put(nums[i] , 1);
-            recurse(nums , i+1 , list1 , list2 , map1);
-            list2.removeLast();
-            map1.remove(nums[i]);
         }
 
 
 
+
+
+    }
+    public static void swap(int[] nums , int i , int j){
+
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
 
     }
 }
