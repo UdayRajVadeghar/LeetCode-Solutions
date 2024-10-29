@@ -52,6 +52,7 @@ Thank you :-)
 | [0739-daily-temperatures](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -346,6 +347,7 @@ Thank you :-)
 | [0209-minimum-size-subarray-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+| [0907-koko-eating-bananas](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
