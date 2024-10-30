@@ -82,6 +82,7 @@ Thank you :-)
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2294-minimum-time-to-complete-trips](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -361,6 +362,7 @@ Thank you :-)
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2294-minimum-time-to-complete-trips](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
