@@ -1,37 +1,48 @@
 class Solution {
+
+    //Recursive TLE
+    // public int climbStairs(int n) {
+        
+    //     return ways(n);
+
+    // }
+    // public static int ways(int n){
+
+    //     if(n == 0){
+    //         return 1;
+    //     }
+        
+    //     if(n == 1){
+    //         return ways(n-1);
+    //     }else{
+
+    //         return ways(n-1) + ways(n-2);
+
+    //     }
+
+    // }
+
     public int climbStairs(int n) {
 
-        int[] dp = new int[n+1];
+        Integer[] dp = new Integer[n+1];
 
-        recurse( n , dp);
+        return ways(n,dp);
 
-        return dp[n];
-
-        
         
     }
+    public static int ways(int n , Integer[] dp){
 
-    public static int recurse(int n , int[] dp){
-
-        if(n == 0 || dp[n] != 0){
-
-            if(dp[n] != 0){
-                return dp[n];
-            }
+        if(n == 0 || n == 1){
             return 1;
         }
-        if(n == 1){
-            dp[1] = 1;
-            return 1;
+
+        if(dp[n] != null){
+            return dp[n];
         }
-        
 
-        int combo1 = recurse(n - 1 , dp);
-        int combo2 = recurse(n - 2 , dp);
+        dp[n] = ways(n-1 , dp) + ways(n-2 , dp);
 
-        dp[n] = combo1 + combo2;
-
-        return combo1 + combo2;
+        return dp[n];
 
 
     }
