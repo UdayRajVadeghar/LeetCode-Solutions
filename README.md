@@ -40,6 +40,7 @@ Thank you :-)
 | [0217-contains-duplicate](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -192,6 +193,7 @@ Thank you :-)
 | [0152-maximum-product-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -376,6 +378,7 @@ Thank you :-)
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
