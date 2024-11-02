@@ -22,6 +22,7 @@ Thank you :-)
 | [0040-combination-sum-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -134,6 +135,7 @@ Thank you :-)
 | ------- |
 | [0015-3sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
