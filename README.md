@@ -259,6 +259,7 @@ Thank you :-)
 | [0567-permutation-in-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0778-reorganize-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1260-day-of-the-year](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
@@ -654,4 +655,8 @@ Thank you :-)
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
