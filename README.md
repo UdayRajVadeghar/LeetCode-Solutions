@@ -40,6 +40,7 @@ Thank you :-)
 | [0217-contains-duplicate](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -106,6 +107,7 @@ Thank you :-)
 | [0217-contains-duplicate](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -145,6 +147,7 @@ Thank you :-)
 | [0215-kth-largest-element-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -384,6 +387,7 @@ Thank you :-)
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -490,6 +494,7 @@ Thank you :-)
 | [0070-climbing-stairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0670-maximum-swap) |
@@ -546,6 +551,7 @@ Thank you :-)
 | [0090-subsets-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0476-number-complement) |
