@@ -194,6 +194,7 @@ Thank you :-)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -491,6 +492,7 @@ Thank you :-)
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
@@ -544,6 +546,7 @@ Thank you :-)
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
