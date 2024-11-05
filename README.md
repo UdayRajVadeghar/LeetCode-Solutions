@@ -519,6 +519,7 @@ Thank you :-)
 | [1240-stone-game-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1260-day-of-the-year](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1260-day-of-the-year) |
 | [1448-maximum-69-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
+| [1585-the-kth-factor-of-n](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -669,6 +670,7 @@ Thank you :-)
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String Matching
 |  |
