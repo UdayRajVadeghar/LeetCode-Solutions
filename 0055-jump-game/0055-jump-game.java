@@ -1,23 +1,36 @@
 class Solution {
     public boolean canJump(int[] nums) {
 
-        int nextIndex = 0;
+        Boolean[] dp = new Boolean[nums.length+1];
 
-    
+        return recurse(nums , 0 , dp);
 
-        for(int i = 0 ; i < nums.length ; i++){
+        
+    }
+    public static boolean recurse(int[] nums , int index , Boolean[] dp){
 
-            nextIndex = Math.max(nextIndex , i + nums[i]);
 
-            if(nextIndex == i && i != nums.length - 1){
-                return false;
+        if(index >= nums.length-1){
+            return true;
+        }
+
+        if(dp[index] != null){
+            return dp[index];
+        }
+      
+
+        for(int i = 1 ; i <= nums[index] ; i++){
+
+            if(recurse(nums , index + i , dp)){
+                return true;
             }
-
 
         }
 
+        dp[index] = false;
 
-        return true;
+        return dp[index];
         
+
     }
 }
