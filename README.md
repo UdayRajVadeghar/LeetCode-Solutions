@@ -28,6 +28,7 @@ Thank you :-)
 | [0066-plus-one](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -200,6 +201,7 @@ Thank you :-)
 | [0063-unique-paths-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0198-house-robber) |
