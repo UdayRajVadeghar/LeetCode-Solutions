@@ -99,6 +99,7 @@ Thank you :-)
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2294-minimum-time-to-complete-trips](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -132,6 +133,7 @@ Thank you :-)
 | [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2487-optimal-partition-of-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -182,6 +184,7 @@ Thank you :-)
 | [0778-reorganize-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -590,6 +593,7 @@ Thank you :-)
 | [1435-xor-queries-of-a-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Recursion
 |  |
