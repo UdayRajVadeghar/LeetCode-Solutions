@@ -87,6 +87,7 @@ Thank you :-)
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1940-maximum-xor-for-each-query](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -592,6 +593,7 @@ Thank you :-)
 | [0491-non-decreasing-subsequences](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -652,6 +654,7 @@ Thank you :-)
 | [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1940-maximum-xor-for-each-query](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Memoization
 |  |
