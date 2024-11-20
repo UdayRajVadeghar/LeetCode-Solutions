@@ -1,40 +1,32 @@
 class MinStack {
 
-    Stack<Integer> stack1 = new Stack();
-    Queue<Integer> queue1 = new PriorityQueue<>();
-    Queue<Integer> queue2 = new PriorityQueue<>();
+    Stack<Integer> stack2 = new Stack<>();
+    Stack<Integer> stack1  =  new Stack<>();
+    
 
 
     public MinStack() {
+        
+        
         
     }
     
     public void push(int val) {
 
         stack1.push(val);
-        queue1.offer(val);
-
+        if(stack2.isEmpty() || stack2.peek() > val){
+        
+            stack2.push(val);
+        }else{
+            stack2.push(stack2.peek());
+        }
+        
     }
     
     public void pop() {
+        stack2.pop();
+        stack1.pop();
         
-        int element = stack1.pop();
-        boolean flag = true;
-        while(!queue1.isEmpty()){
-            
-            if(element == queue1.peek() && flag){
-                flag = !flag;
-                queue1.poll();
-                continue;
-            }else{
-                queue2.offer(queue1.poll());
-            }
-        }
-        Queue<Integer> temp = new PriorityQueue<>();
-        queue1 = queue2;
-        queue2 = temp;
-    
-
     }
     
     public int top() {
@@ -44,8 +36,10 @@ class MinStack {
     }
     
     public int getMin() {
+
+        return stack2.peek();
+
         
-        return queue1.peek();
     }
 }
 
