@@ -99,6 +99,7 @@ Thank you :-)
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2232-adding-spaces-to-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2294-minimum-time-to-complete-trips](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -205,6 +206,7 @@ Thank you :-)
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
@@ -294,6 +296,7 @@ Thank you :-)
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -569,6 +572,7 @@ Thank you :-)
 | [0921-spiral-matrix-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
