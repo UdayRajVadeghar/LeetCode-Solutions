@@ -208,6 +208,7 @@ Thank you :-)
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -300,6 +301,7 @@ Thank you :-)
 | [2487-optimal-partition-of-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
