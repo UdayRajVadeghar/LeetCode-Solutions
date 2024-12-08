@@ -44,7 +44,7 @@ class Solution {
     public static boolean isEnough(int[] nums , int k , int mid){
         int sum = 0;
         int count = 1;
-        System.out.println("Mid is : " + mid);
+        //System.out.println("Mid is : " + mid);
 
         for(int i = 0 ; i < nums.length ; i++){
 
@@ -56,7 +56,7 @@ class Solution {
             }
         }
         if(count <= k){
-            System.out.println("Count is : " + count);
+            //System.out.println("Count is : " + count);
             return true;
         }
         return false;
