@@ -1,49 +1,64 @@
 class Solution {
-
     public int splitArray(int[] nums, int k) {
 
-        int low = 0;
-        int high = 0;
+        int low = maximumElement(nums);
+        int high = maximumSum(nums);
 
-        for(int i = 0 ; i < nums.length ; i++){
-            low = Math.max(low , nums[i]);
-            high += nums[i];
-
-        }
-        
         while(low <= high){
+            int mid = (low + high)/2;
 
-            int mid = low + (high-low)/2;
-            int val = check(nums,mid);
-
-            if(val <= k ){
+            if(isEnough(nums , k ,mid)){
                 high = mid - 1;
-            }else{
+            }
+            else{
                 low = mid + 1;
             }
 
         }
+
         return low;
 
-        
-    }
-    public static int check(int[] nums , int val){
 
-        int k = 1;
-        int curSum = 0;
+
+        
+
+    }
+    public static int maximumElement(int[] nums){
+        int max = 0;
 
         for(int i = 0 ; i < nums.length ; i++){
-            System.out.println("cursum : " + curSum + " value : " + val);
-            if(curSum + nums[i] <= val){
-                curSum += nums[i];
-            }else{
-                k++;
-                curSum = nums[i];
-            }
-
+            max = Math.max(max , nums[i]);
         }
-        System.out.println(k);
-        return k;
 
+        return max;
+    }
+    public static int maximumSum(int[] nums){
+        int sum =0;
+
+        for(int i = 0 ; i < nums.length ; i++){
+            sum = sum + nums[i];
+        }
+
+        return sum;
+    }
+    public static boolean isEnough(int[] nums , int k , int mid){
+        int sum = 0;
+        int count = 1;
+        System.out.println("Mid is : " + mid);
+
+        for(int i = 0 ; i < nums.length ; i++){
+
+            if(sum + nums[i] > mid){
+                count++;
+                sum = nums[i];
+            }else{
+                sum = sum + nums[i];
+            }
+        }
+        if(count <= k){
+            System.out.println("Count is : " + count);
+            return true;
+        }
+        return false;
     }
 }
