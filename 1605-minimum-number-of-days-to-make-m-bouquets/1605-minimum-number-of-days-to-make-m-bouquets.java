@@ -5,7 +5,7 @@ class Solution {
         int min = 1;
         int length  = bloomDay.length;
         int ans = Integer.MAX_VALUE;
-        int low = min(bloomDay);
+        int low = 1;
         int high = max(bloomDay);
 
         if(m*k > length){
