@@ -65,6 +65,7 @@ Thank you :-)
 | [0731-my-calendar-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0870-magic-squares-in-grid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -175,6 +176,7 @@ Thank you :-)
 | [0451-sort-characters-by-frequency](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0778-reorganize-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -263,6 +265,7 @@ Thank you :-)
 | [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -326,6 +329,7 @@ Thank you :-)
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -545,6 +549,7 @@ Thank you :-)
 | [0624-maximum-distance-in-arrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1448-maximum-69-number) |
