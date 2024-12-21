@@ -2,7 +2,7 @@ class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
 
         long sum = 0;
-        TreeMap<Integer , Integer> map1 = new TreeMap<>();
+        HashMap<Integer , Integer> map1 = new HashMap<>();
 
         for(int i = 0 ; i < k ; i++){
 
