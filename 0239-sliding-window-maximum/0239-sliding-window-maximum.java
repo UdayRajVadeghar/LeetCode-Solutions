@@ -1,55 +1,61 @@
-class Pair implements Comparable<Pair>{
+class Pair {
 
-    int num;
     int index;
+    int value;
 
-    Pair(int num , int index){
+    public Pair(int index, int value) {
 
-        this.num = num;
         this.index = index;
+        this.value = value;
 
-    }
-    public int compareTo(Pair that){
-        
-        return this.num - that.num;
     }
 
 }
 
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        
-        int i = 0;
-        int j = 0;
-        int index = 0;
-        int n = nums.length;
-        int[] arr = new int[n - k + 1];
-        PriorityQueue<Pair> queue1 = new PriorityQueue<>(Collections.reverseOrder());
 
-        while( j < n){
+        int[] arr = new int[nums.length - k + 1];
 
-            if(j-i+1 < k){
-                queue1.offer(new Pair(nums[j] , j));
-                j++;
-            }else{
-                
-                queue1.offer(new Pair(nums[j] , j));
+        Deque<Pair> queue1 = new ArrayDeque<>();
 
-                while(true){
-                    Pair temp = queue1.peek();
+        for (int i = 0; i < k; i++) {
 
-                    if(temp.index >= i && temp.index <= j){
-                        arr[index] = temp.num;
-                        index++;
-                        break;
-                    }else{
-                        queue1.poll();
-                    }
+            while (!queue1.isEmpty()) {
+
+                if (queue1.peekLast().value <= nums[i]) {
+                    queue1.removeLast();
+                }else{
+                    break;
                 }
-                i++;
-                j++;
 
             }
+            queue1.addLast(new Pair(i, nums[i]));
+        }
+
+        arr[0] = queue1.peekFirst().value;
+        int curIndex = 1;
+
+        for (int i = k; i < nums.length; i++) {
+            
+            while(!queue1.isEmpty() && Math.abs(queue1.peekFirst().index - i) >= k){
+
+                queue1.removeFirst();
+
+            }
+            while (!queue1.isEmpty()) {
+
+                if (queue1.peekLast().value <= nums[i]) {
+                    queue1.removeLast();
+                }else{
+                    break;
+                }
+
+            }
+            queue1.addLast(new Pair(i, nums[i]));
+            arr[curIndex] = queue1.peekFirst().value;
+            curIndex++;
+
 
         }
 
