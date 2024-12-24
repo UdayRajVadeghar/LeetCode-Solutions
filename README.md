@@ -112,6 +112,7 @@ Thank you :-)
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -191,6 +192,7 @@ Thank you :-)
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
@@ -478,6 +480,7 @@ Thank you :-)
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -526,6 +529,7 @@ Thank you :-)
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Matrix
 |  |
 | ------- |
