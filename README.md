@@ -362,6 +362,7 @@ Thank you :-)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -391,6 +392,7 @@ Thank you :-)
 | [0404-sum-of-left-leaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -417,6 +419,7 @@ Thank you :-)
 | [0207-course-schedule](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -453,6 +456,7 @@ Thank you :-)
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
