@@ -11,13 +11,15 @@ class Solution {
             return 0;
         }
 
+        if(dp[x][y] != null){
+            return dp[x][y];
+        }
+
         if(x == m && y == n){
             return 1;
         }
 
-        if(dp[x][y] != null){
-            return dp[x][y];
-        }
+        
 
         int left = recurse(m , n , x+1,y ,dp);
         int right = recurse(m , n , x , y+1 , dp);
