@@ -78,6 +78,7 @@ Thank you :-)
 | [1014-k-closest-points-to-origin](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1063-best-sightseeing-pair](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1240-stone-game-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
@@ -256,6 +257,7 @@ Thank you :-)
 | [0542-01-matrix](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1063-best-sightseeing-pair](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
