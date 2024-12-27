@@ -1,25 +1,30 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-
+        
         Integer[][] dp = new Integer[m][n];
-        return recurse(m,n,0,0,dp);
+        return recurse(m-1 , n-1 , 0 , 0 , dp);
+        
     }
-    public static int recurse(int m , int n , int row , int col , Integer[][] dp){
-        
+    public static int recurse(int m , int n , int x , int y , Integer[][] dp){
 
-        
-        if(row > m-1 || col > n-1){
+        if(x > m || y > n){
             return 0;
         }
-        if(row == m-1 && col == n-1){
+
+        if(x == m && y == n){
             return 1;
         }
-        if(dp[row][col] != null){
-            return dp[row][col];
+
+        if(dp[x][y] != null){
+            return dp[x][y];
         }
 
-        dp[row][col] =  recurse(m,n,row+1,col,dp) + recurse(m,n,row,col+1,dp);
-        return dp[row][col];
+        int left = recurse(m , n , x+1,y ,dp);
+        int right = recurse(m , n , x , y+1 , dp);
+
+        dp[x][y] = left + right;
+        return dp[x][y];
+
 
     }
 }
