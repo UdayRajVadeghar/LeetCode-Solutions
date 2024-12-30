@@ -331,6 +331,7 @@ Thank you :-)
 | [2414-move-pieces-to-obtain-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2580-circular-sentence) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -535,6 +536,7 @@ Thank you :-)
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Matrix
 |  |
