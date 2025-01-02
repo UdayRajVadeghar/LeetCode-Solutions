@@ -111,6 +111,7 @@ Thank you :-)
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -332,6 +333,7 @@ Thank you :-)
 | [2414-move-pieces-to-obtain-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -739,6 +741,7 @@ Thank you :-)
 | [1537-maximum-score-after-splitting-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Memoization
 |  |
 | ------- |
