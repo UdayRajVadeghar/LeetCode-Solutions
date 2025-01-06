@@ -94,6 +94,7 @@ Thank you :-)
 | [1755-defuse-the-bomb](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2035-count-sub-islands) |
@@ -328,6 +329,7 @@ Thank you :-)
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -745,6 +747,7 @@ Thank you :-)
 | [1240-stone-game-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
