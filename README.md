@@ -120,6 +120,7 @@ Thank you :-)
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -349,6 +350,7 @@ Thank you :-)
 | [3195-separate-black-and-white-balls](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
 ## Monotonic Stack
 |  |
@@ -769,6 +771,7 @@ Thank you :-)
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -800,12 +803,15 @@ Thank you :-)
 | [0812-rotate-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
