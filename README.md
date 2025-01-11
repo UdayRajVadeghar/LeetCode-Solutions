@@ -167,6 +167,7 @@ Thank you :-)
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Thank you :-)
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## Counting
 |  |
 | ------- |
@@ -360,6 +362,7 @@ Thank you :-)
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## Monotonic Stack
 |  |
 | ------- |
