@@ -265,6 +265,7 @@ Thank you :-)
 | [0213-house-robber-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -634,6 +635,7 @@ Thank you :-)
 | [0268-missing-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0670-maximum-swap](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0910-nth-magical-number](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/0910-nth-magical-number) |
