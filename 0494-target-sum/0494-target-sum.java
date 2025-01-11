@@ -1,25 +1,26 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        
-        int[] count = {0};
-        recurse(nums , target  , 0 , 0 , count);
+    
+        // Integer dp[][] = new Integer[nums.length+1][]
 
-        return count[0];
-        
+       return recurse(nums , target , nums.length-1);
 
         
     }
-    public static void recurse(int[] arr , int target , int curSum , int index ,int[] count){
+    public static int recurse(int[] arr , int target  , int index ){
 
-        if(index >= arr.length){
-            if(curSum == target){
-                count[0]++;
+        if(index == -1){
+            if(target == 0){
+                return 1;
             }
-            return;
+            return 0;
         }
 
-        recurse(arr , target , curSum + arr[index] , index + 1 , count);//pick
-        recurse(arr, target , curSum - arr[index] , index+1 , count);//pick but substract
+        int count1 = recurse(arr , target-arr[index] , index-1);
+        int count2 = recurse(arr , target+arr[index] , index-1);
+
+        return count1 + count2;
+
 
     }
 }
