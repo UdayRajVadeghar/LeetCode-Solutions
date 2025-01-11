@@ -96,6 +96,7 @@ Thank you :-)
 | [1755-defuse-the-bomb](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -509,6 +510,7 @@ Thank you :-)
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2294-minimum-time-to-complete-trips) |
