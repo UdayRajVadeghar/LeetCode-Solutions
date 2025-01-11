@@ -1,49 +1,48 @@
 class Solution {
     public int minFallingPathSum(int[][] matrix) {
-
-        int minSum = Integer.MAX_VALUE;
-
-        Integer[][] dp = new Integer[matrix.length + 1][matrix[0].length + 1];
-
-        for(int i = 0 ; i < matrix.length ; i++){
-
-            minSum = Math.min( minSum , recurse(matrix , matrix.length , 0 , i , dp));
-
-        }
-
-        return minSum;
-     
         
-    }
-    public static int recurse(int[][] matrix , int height , int level , int index , Integer[][] dp){
-
-
-        if(index < 0 || index >= matrix[0].length){
-
-            return Integer.MAX_VALUE;
-
-        }
-
-        if(level == height-1){
-            return matrix[level][index];
-        }
-
-        if(dp[level][index] != null){
-            return dp[level][index];
-        }
         
-        int left = recurse(matrix , height , level+1 , index-1 , dp);
-        int middle = recurse(matrix , height , level+1 , index , dp);
-        int right = recurse(matrix , height , level+1 , index+1 , dp);
+        Integer[][] dp = new Integer[matrix.length+1][matrix[0].length+1];
 
+        int min = Integer.MAX_VALUE;
 
-        int min = matrix[level][index] + Math.min(left , Math.min(middle , right));
+        for(int i = 0 ; i < matrix[0].length ; i++){
 
-        dp[level][index] = min;
+            min = Math.min(recurse(matrix, matrix.length - 1 , i , dp) , min);
 
-        return dp[level][index];
+        }
+
+        return min;
 
         
 
     }
+    public static int recurse(int[][] matrix , int rowIndex , int colIndex , Integer[][] dp){
+
+        if(colIndex < 0 || colIndex >= matrix[0].length){
+            return 12000;
+        }
+
+        if(rowIndex < 0){
+            return 0;
+        }
+        if(dp[rowIndex][colIndex] != null){
+            return dp[rowIndex][colIndex];
+        }
+
+        int min = matrix[rowIndex][colIndex] + Math.min(
+            Math.min(
+                recurse(matrix, rowIndex - 1, colIndex - 1, dp),
+                recurse(matrix, rowIndex - 1, colIndex, dp)
+            ),
+            recurse(matrix, rowIndex - 1, colIndex + 1, dp)
+        );
+        
+
+        dp[rowIndex][colIndex] = min;
+
+        return min;
+
+    }   
+
 }
