@@ -1,7 +1,7 @@
 class Solution {
     public int minimumSize(int[] nums, int maxOperations) {
 
-        int max = 0;
+        int max = Arrays.stream(nums).max().getAsInt();
 
         for(int i = 0 ; i < nums.length ; i++){
             max = Math.max(max , nums[i]);
