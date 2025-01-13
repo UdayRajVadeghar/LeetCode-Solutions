@@ -168,6 +168,7 @@ Thank you :-)
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## Divide and Conquer
 |  |
@@ -225,6 +226,7 @@ Thank you :-)
 | [2300-construct-string-with-repeat-limit](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -365,6 +367,7 @@ Thank you :-)
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## Monotonic Stack
 |  |
