@@ -120,6 +120,7 @@ Thank you :-)
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -167,6 +168,7 @@ Thank you :-)
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
@@ -711,6 +713,7 @@ Thank you :-)
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/UdayRajVadeghar/LeetCode-Solutions/tree/master/3394-minimum-array-end) |
 ## Recursion
